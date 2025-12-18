@@ -933,3 +933,948 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#EXTM3U
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63034/SQUARE/l/0" group-title="Vplus - National TV",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=1&type=drm
+https://streamer.vision99.workers.dev/?id=1&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63035/SQUARE/l/0" group-title="Vplus - National TV",MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=2&type=drm
+https://streamer.vision99.workers.dev/?id=2&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63036/SQUARE/l/0" group-title="Vplus - National TV",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=3&type=drm
+https://streamer.vision99.workers.dev/?id=3&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63037/SQUARE/l/0" group-title="Vplus - National TV",iNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=4&type=drm
+https://streamer.vision99.workers.dev/?id=4&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63038/SQUARE/l/0" group-title="Vplus - National TV",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=8&type=drm
+https://streamer.vision99.workers.dev/?id=8&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63039/SQUARE/l/0" group-title="Vplus - National TV",Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=9&type=drm
+https://streamer.vision99.workers.dev/?id=9&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63040/SQUARE/l/0" group-title="Vplus - National TV",Trans 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=7&type=drm
+https://streamer.vision99.workers.dev/?id=7&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63045/SQUARE/l/0" group-title="Vplus - National TV",Trans TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=6&type=drm
+https://streamer.vision99.workers.dev/?id=6&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63046/SQUARE/l/0" group-title="Vplus - National TV",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=10&type=drm
+https://streamer.vision99.workers.dev/?id=10&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63049/SQUARE/l/0" group-title="Vplus - National TV",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=11&type=drm
+https://streamer.vision99.workers.dev/?id=11&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63050/SQUARE/l/0" group-title="Vplus - National TV",TVOne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=12&type=drm
+https://streamer.vision99.workers.dev/?id=12&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63051/SQUARE/l/0" group-title="Vplus - National TV",Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=13&type=drm
+https://streamer.vision99.workers.dev/?id=13&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63056/SQUARE/l/0" group-title="Vplus - National TV",Metro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=14&type=drm
+https://streamer.vision99.workers.dev/?id=14&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63088/SQUARE/l/0" group-title="Vplus - National TV",TVRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=16&type=drm
+https://streamer.vision99.workers.dev/?id=16&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63061/SQUARE/l/0" group-title="Vplus - National TV",DAAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=18&type=drm
+https://streamer.vision99.workers.dev/?id=18&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63062/SQUARE/l/0" group-title="Vplus - National TV",MDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=23&type=drm
+https://streamer.vision99.workers.dev/?id=23&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63063/SQUARE/l/0" group-title="Vplus - National TV",JTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=24&type=drm
+https://streamer.vision99.workers.dev/?id=24&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63068/SQUARE/l/0" group-title="Vplus - National TV",JAK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=25&type=drm
+https://streamer.vision99.workers.dev/?id=25&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63069/SQUARE/l/0" group-title="Vplus - National TV",Bali TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=26&type=drm
+https://streamer.vision99.workers.dev/?id=26&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63070/SQUARE/l/0" group-title="Vplus - National TV",Bandung TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=27&type=drm
+https://streamer.vision99.workers.dev/?id=27&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63073/SQUARE/l/0" group-title="Vplus - National TV",Moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=19&type=drm
+https://streamer.vision99.workers.dev/?id=19&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63074/SQUARE/l/0" group-title="Vplus - National TV",Mentari TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=20&type=drm
+https://streamer.vision99.workers.dev/?id=20&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63090/SQUARE/l/0" group-title="Vplus - Sports",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=122&type=drm
+https://streamer.vision99.workers.dev/?id=122&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63091/SQUARE/l/0" group-title="Vplus - Sports",beIN SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=123&type=drm
+https://streamer.vision99.workers.dev/?id=123&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63092/SQUARE/l/0" group-title="Vplus - Sports",beIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=124&type=drm
+https://streamer.vision99.workers.dev/?id=124&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63093/SQUARE/l/0" group-title="Vplus - Sports",beIN SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=125&type=drm
+https://streamer.vision99.workers.dev/?id=125&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63096/SQUARE/l/0" group-title="Vplus - Sports",beIN SPORTS 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=126&type=drm
+https://streamer.vision99.workers.dev/?id=126&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63105/SQUARE/l/0" group-title="Vplus - Sports",Soccer Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=115&type=drm
+https://streamer.vision99.workers.dev/?id=115&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63108/SQUARE/l/0" group-title="Vplus - Sports",Sportstars
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=112&type=drm
+https://streamer.vision99.workers.dev/?id=112&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63109/SQUARE/l/0" group-title="Vplus - Sports",Sportstars 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=113&type=drm
+https://streamer.vision99.workers.dev/?id=113&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63112/SQUARE/l/0" group-title="Vplus - Sports",SpoTV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=119&type=drm
+https://streamer.vision99.workers.dev/?id=119&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63113/SQUARE/l/0" group-title="Vplus - Sports",SpoTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=120&type=drm
+https://streamer.vision99.workers.dev/?id=120&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63114/SQUARE/l/0" group-title="Vplus - Sports",Fight Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=121&type=drm
+https://streamer.vision99.workers.dev/?id=121&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/66233/SQUARE/l/0" group-title="Vplus - Sports",SEA GAMES 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=1019&type=drm
+https://streamer.vision99.workers.dev/?id=1019&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/66234/SQUARE/l/0" group-title="Vplus - Sports",SEA GAMES 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=1020&type=drm
+https://streamer.vision99.workers.dev/?id=1020&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/66235/SQUARE/l/0" group-title="Vplus - Sports",SEA GAMES 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=1021&type=drm
+https://streamer.vision99.workers.dev/?id=1021&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/66236/SQUARE/l/0" group-title="Vplus - Sports",SEA GAMES 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=1022&type=drm
+https://streamer.vision99.workers.dev/?id=1022&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63115/SQUARE/l/0" group-title="Vplus - Sports",V+ Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=1011&type=drm
+https://streamer.vision99.workers.dev/?id=1011&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63118/SQUARE/l/0" group-title="Vplus - Sports",V+ LIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=1002&type=drm
+https://streamer.vision99.workers.dev/?id=1002&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63119/SQUARE/l/0" group-title="Vplus - Sports",V+ LIVE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=1012&type=drm
+https://streamer.vision99.workers.dev/?id=1012&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63122/SQUARE/l/0" group-title="Vplus - Sports",V+ LIVE 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=1013&type=drm
+https://streamer.vision99.workers.dev/?id=1013&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63089/SQUARE/l/0" group-title="Vplus - Sports",V+ LIVE 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=1015&type=drm
+https://streamer.vision99.workers.dev/?id=1015&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63125/SQUARE/l/0" group-title="Vplus - Entertainment",Animax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=65&type=drm
+https://streamer.vision99.workers.dev/?id=65&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63126/SQUARE/l/0" group-title="Vplus - Entertainment",Food Travel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=71&type=drm
+https://streamer.vision99.workers.dev/?id=71&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63127/SQUARE/l/0" group-title="Vplus - Entertainment",Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=72&type=drm
+https://streamer.vision99.workers.dev/?id=72&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63128/SQUARE/l/0" group-title="Vplus - Entertainment",TVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=73&type=drm
+https://streamer.vision99.workers.dev/?id=73&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63129/SQUARE/l/0" group-title="Vplus - Entertainment",One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=74&type=drm
+https://streamer.vision99.workers.dev/?id=74&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63219/SQUARE/l/0" group-title="Vplus - Entertainment",Kix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=75&type=drm
+https://streamer.vision99.workers.dev/?id=75&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63136/SQUARE/l/0" group-title="Vplus - Entertainment",Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=77&type=drm
+https://streamer.vision99.workers.dev/?id=77&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63137/SQUARE/l/0" group-title="Vplus - Entertainment",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=79&type=drm
+https://streamer.vision99.workers.dev/?id=79&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63138/SQUARE/l/0" group-title="Vplus - Entertainment",Lifetime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=80&type=drm
+https://streamer.vision99.workers.dev/?id=80&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63139/SQUARE/l/0" group-title="Vplus - Entertainment",Vision Prime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=87&type=drm
+https://streamer.vision99.workers.dev/?id=87&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63140/SQUARE/l/0" group-title="Vplus - Entertainment",Rock Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=92&type=drm
+https://streamer.vision99.workers.dev/?id=92&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63141/SQUARE/l/0" group-title="Vplus - Entertainment",Music TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=142&type=drm
+https://streamer.vision99.workers.dev/?id=142&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63142/SQUARE/l/0" group-title="Vplus - Entertainment",Anhui
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=157&type=drm
+https://streamer.vision99.workers.dev/?id=157&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63143/SQUARE/l/0" group-title="Vplus - Entertainment",Xing kong TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=158&type=drm
+https://streamer.vision99.workers.dev/?id=158&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63144/SQUARE/l/0" group-title="Vplus - Entertainment",Shanghai Dragon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=159&type=drm
+https://streamer.vision99.workers.dev/?id=159&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63145/SQUARE/l/0" group-title="Vplus - Entertainment",Hunan TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=160&type=drm
+https://streamer.vision99.workers.dev/?id=160&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63146/SQUARE/l/0" group-title="Vplus - Entertainment",Jiangsu TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=161&type=drm
+https://streamer.vision99.workers.dev/?id=161&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63147/SQUARE/l/0" group-title="Vplus - Entertainment",NHK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=162&type=drm
+https://streamer.vision99.workers.dev/?id=162&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63649/SQUARE/l/0" group-title="Vplus - Entertainment",TV5Monde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=163&type=drm
+https://streamer.vision99.workers.dev/?id=163&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63149/SQUARE/l/0" group-title="Vplus - Entertainment",Celebrities TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=88&type=drm
+https://streamer.vision99.workers.dev/?id=88&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63150/SQUARE/l/0" group-title="Vplus - Entertainment",Hanacaraka TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=89&type=drm
+https://streamer.vision99.workers.dev/?id=89&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63151/SQUARE/l/0" group-title="Vplus - News",SindoNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=5&type=drm
+https://streamer.vision99.workers.dev/?id=5&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63152/SQUARE/l/0" group-title="Vplus - News",TVOne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=12&type=drm
+https://streamer.vision99.workers.dev/?id=12&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63153/SQUARE/l/0" group-title="Vplus - News",Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=13&type=drm
+https://streamer.vision99.workers.dev/?id=13&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63154/SQUARE/l/0" group-title="Vplus - News",Metro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=14&type=drm
+https://streamer.vision99.workers.dev/?id=14&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63155/SQUARE/l/0" group-title="Vplus - News",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=15&type=drm
+https://streamer.vision99.workers.dev/?id=15&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63156/SQUARE/l/0" group-title="Vplus - News",IDX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=134&type=drm
+https://streamer.vision99.workers.dev/?id=134&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63157/SQUARE/l/0" group-title="Vplus - News",BBC World news
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=130&type=drm
+https://streamer.vision99.workers.dev/?id=130&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63160/SQUARE/l/0" group-title="Vplus - News",DW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=146&type=drm
+https://streamer.vision99.workers.dev/?id=146&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63161/SQUARE/l/0" group-title="Vplus - News",France 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=147&type=drm
+https://streamer.vision99.workers.dev/?id=147&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63162/SQUARE/l/0" group-title="Vplus - News",TRT World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=148&type=drm
+https://streamer.vision99.workers.dev/?id=148&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63163/SQUARE/l/0" group-title="Vplus - News",Aljazeera
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=149&type=drm
+https://streamer.vision99.workers.dev/?id=149&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63164/SQUARE/l/0" group-title="Vplus - News",RT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=150&type=drm
+https://streamer.vision99.workers.dev/?id=150&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63165/SQUARE/l/0" group-title="Vplus - News",Channel News Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=152&type=drm
+https://streamer.vision99.workers.dev/?id=152&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63166/SQUARE/l/0" group-title="Vplus - News",CGTN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=156&type=drm
+https://streamer.vision99.workers.dev/?id=156&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63167/SQUARE/l/0" group-title="Vplus - Knowledge",Crime Investigation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=95&type=drm
+https://streamer.vision99.workers.dev/?id=95&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63168/SQUARE/l/0" group-title="Vplus - Knowledge",Outdoor Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=101&type=drm
+https://streamer.vision99.workers.dev/?id=101&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63169/SQUARE/l/0" group-title="Vplus - Knowledge",BBC Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=102&type=drm
+https://streamer.vision99.workers.dev/?id=102&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63170/SQUARE/l/0" group-title="Vplus - Knowledge",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=104&type=drm
+https://streamer.vision99.workers.dev/?id=104&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63171/SQUARE/l/0" group-title="Vplus - Knowledge",Love Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=105&type=drm
+https://streamer.vision99.workers.dev/?id=105&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63172/SQUARE/l/0" group-title="Vplus - Knowledge",CGTN Documentary
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=155&type=drm
+https://streamer.vision99.workers.dev/?id=155&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63173/SQUARE/l/0" group-title="Vplus - Kids",Moonbug
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=57&type=drm
+https://streamer.vision99.workers.dev/?id=57&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63174/SQUARE/l/0" group-title="Vplus - Kids",Kids TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=56&type=drm
+https://streamer.vision99.workers.dev/?id=56&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63175/SQUARE/l/0" group-title="Vplus - Kids",Cbeebies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=58&type=drm
+https://streamer.vision99.workers.dev/?id=58&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63176/SQUARE/l/0" group-title="Vplus - Kids",Nick Jr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=60&type=drm
+https://streamer.vision99.workers.dev/?id=60&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63177/SQUARE/l/0" group-title="Vplus - Kids",Zoo Moo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=63&type=drm
+https://streamer.vision99.workers.dev/?id=63&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63178/SQUARE/l/0" group-title="Vplus - Kids",Nick
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=64&type=drm
+https://streamer.vision99.workers.dev/?id=64&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63179/SQUARE/l/0" group-title="Vplus - Kids",Dream Works
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=67&type=drm
+https://streamer.vision99.workers.dev/?id=67&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63180/SQUARE/l/0" group-title="Vplus - Movies",Studio Universal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=54&type=drm
+https://streamer.vision99.workers.dev/?id=54&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63181/SQUARE/l/0" group-title="Vplus - Movies",Originals
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=36&type=drm
+https://streamer.vision99.workers.dev/?id=36&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63182/SQUARE/l/0" group-title="Vplus - Movies",Buddy Star
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=37&type=drm
+https://streamer.vision99.workers.dev/?id=37&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63183/SQUARE/l/0" group-title="Vplus - Movies",Uniques
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=38&type=drm
+https://streamer.vision99.workers.dev/?id=38&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63184/SQUARE/l/0" group-title="Vplus - Movies",Superrix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=39&type=drm
+https://streamer.vision99.workers.dev/?id=39&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63185/SQUARE/l/0" group-title="Vplus - Movies",Cineedge
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=40&type=drm
+https://streamer.vision99.workers.dev/?id=40&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63186/SQUARE/l/0" group-title="Vplus - Movies",Hits Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=42&type=drm
+https://streamer.vision99.workers.dev/?id=42&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63187/SQUARE/l/0" group-title="Vplus - Movies",Celestial Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=44&type=drm
+https://streamer.vision99.workers.dev/?id=44&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63193/SQUARE/l/0" group-title="Vplus - Movies",TVN Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=46&type=drm
+https://streamer.vision99.workers.dev/?id=46&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63191/SQUARE/l/0" group-title="Vplus - Movies",Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=93&type=drm
+https://streamer.vision99.workers.dev/?id=93&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63192/SQUARE/l/0" group-title="Vplus - Movies",Zee Bioskop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=47&type=drm
+https://streamer.vision99.workers.dev/?id=47&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63194/SQUARE/l/0" group-title="Vplus - Music",Music TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=142&type=drm
+https://streamer.vision99.workers.dev/?id=142&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63199/SQUARE/l/0" group-title="Vplus - Religion",TV 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=28&type=drm
+https://streamer.vision99.workers.dev/?id=28&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63200/SQUARE/l/0" group-title="Vplus - Religion",DMI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=29&type=drm
+https://streamer.vision99.workers.dev/?id=29&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63201/SQUARE/l/0" group-title="Vplus - Religion",TV MU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=30&type=drm
+https://streamer.vision99.workers.dev/?id=30&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63202/SQUARE/l/0" group-title="Vplus - Religion",Muslim TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=137&type=drm
+https://streamer.vision99.workers.dev/?id=137&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63203/SQUARE/l/0" group-title="Vplus - Religion",LIFE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=138&type=drm
+https://streamer.vision99.workers.dev/?id=138&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63204/SQUARE/l/0" group-title="Vplus - Religion",Reformed 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=139&type=drm
+https://streamer.vision99.workers.dev/?id=139&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63211/SQUARE/l/0" group-title="Vplus - Religion",Al Quran Al Kareem
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=153&type=drm
+https://streamer.vision99.workers.dev/?id=153&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63212/SQUARE/l/0" group-title="Vplus - Religion",EWTN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=154&type=drm
+https://streamer.vision99.workers.dev/?id=154&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63213/SQUARE/l/0" group-title="Vplus - Lifestyle",Global Trekker
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=103&type=drm
+https://streamer.vision99.workers.dev/?id=103&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63214/SQUARE/l/0" group-title="Vplus - Lifestyle",Celebrities TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=88&type=drm
+https://streamer.vision99.workers.dev/?id=88&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63215/SQUARE/l/0" group-title="Vplus - Are You Abroad?",RCTI World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=201&type=drm
+https://streamer.vision99.workers.dev/?id=201&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63216/SQUARE/l/0" group-title="Vplus - Are You Abroad?",MNCTV World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=203&type=drm
+https://streamer.vision99.workers.dev/?id=203&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63217/SQUARE/l/0" group-title="Vplus - Are You Abroad?",GTV World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=202&type=drm
+https://streamer.vision99.workers.dev/?id=202&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.visionplus.id/images/external-entities/63218/SQUARE/l/0" group-title="Vplus - Are You Abroad?",Drama World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=204&type=drm
+https://streamer.vision99.workers.dev/?id=204&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="Vplus - Sports",Sportstars 3 (LIVE SPORT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=114&type=drm
+https://streamer.vision99.workers.dev/?id=114&type=dash
+
+#EXTINF:0 group-logo="http://udinlaw.sytes.net:8000/logo/visionplus.jpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_424.png" group-title="Vplus - Sports",Sportstars 4 (Event-Only)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=205&type=drm
+https://streamer.vision99.workers.dev/?id=205&type=dash
