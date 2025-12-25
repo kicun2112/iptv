@@ -1,4 +1,858 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="SPORTS | INDIA",IN: TEN 1 (4K).
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98861
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="SPORTS | INDIA",IN: TEN 2 (4K).
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98862
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="SPORTS | INDIA",IN: TEN 3 (4K).
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98863
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="SPORTS | INDIA",IN: STAR SPORTS 1 (4K).
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98864
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="SPORTS | INDIA",IN: STAR SPORTS 2 (4K).
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98865
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="SPORTS | INDIA",IN: STAR SPORTS 1 HINDI (4K).
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98866
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="SPORTS | INDIA",IN: STAR SPORTS SELECT 1 (4K).
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98867
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="SPORTS | INDIA",IN: START SPORTS SELECT 2 (4K).
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98868
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="SPORTS | INDIA",IN: SONY TEN 5 (4K).
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98870
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="SPORTS | INDIA",IN: Star Sports Select 1 (FHD)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9400
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956" group-title="SPORTS | INDIA",IN: Star Sports Select 2 (FHD)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9401
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" group-title="SPORTS | INDIA",IN: Sony Ten 1 (FHD)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9402
+#EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce68ead0e21236eb474/1565808608783/c9347b41649e4f9d39f547b0d9ffd902.jpg" group-title="SPORTS | INDIA",IN: Sony Ten 3 (FHD)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9404
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="SPORTS | INDIA",IN: EUROSPORTS (4K)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/23308
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="SPORTS | INDIA",IN: Sony Ten 2 (4K)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9403
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" group-title="SPORTS | INDIA",IN: SONY TEN 5 (FHD)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/17565
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/37a141fd1959d8404d85eddaf9db6b8b.png" group-title="SPORTS | SPORTS",PT: SPORT TV1 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/314
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/50b680d733869a2d534e49f9b69e1dca.png" group-title="SPORTS | SPORTS",PT: SPORT TV 2 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/315
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/d9f75d9bba2e1efe718dd51f9289c360.png" group-title="SPORTS | SPORTS",PT: SPORT TV3 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/316
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/5b984b54505ed991ae890e50533ed85d.png" group-title="SPORTS | SPORTS",PT: Sport TV 5 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/318
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/0f77ba9607690aff0aa1307469f24dcb.png" group-title="SPORTS | SPORTS",PT: EUROSPORT 1 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/324
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/828c2456cb98214830e000ff03fedaba.png" group-title="SPORTS | SPORTS",PT: EUROSPORT 2 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/325
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/0cd889734dd9fc56dae353d0e54cc4e1.png" group-title="SPORTS | SPORTS",PT: ELEVEN SPORT 1 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/327
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/6ced2656769ce3dee1c045d694a81524.png" group-title="SPORTS | SPORTS",PT: ELEVEN SPORT 3 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/329
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fba7aa6abb3a938d6d2da99a29f57a8c.png" group-title="SPORTS | SPORTS",NL : ESPN SPORTS 1 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/503
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/227dacbe84acf0df2b21279e1f75d2c2.png" group-title="SPORTS | SPORTS",NL : ESPN SPORTS 3 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/505
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/758d4f77d176cdd7a7a3f22af54c820b.png" group-title="SPORTS | SPORTS",NL : EUROSPORT 1 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/509
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/2daed7bb7d517d2e1b21da50a4084d64.png" group-title="SPORTS | SPORTS",NL : ZIGGO SPORT VOETBAL HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/511
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/6e09ff7f947e483e9e32676d3273c681.png" group-title="SPORTS | SPORTS",DE: DAZN Sport 2 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/564
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/f6a14d2f69932ef18b77ea880dde4c61.png" group-title="SPORTS | SPORTS",FR: RMC SPORTS 3
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/615
+#EXTINF:-1 group-title="SPORTS | SPORTS",AL: KUJTESA SPORT 4 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/1138
+#EXTINF:-1 tvg-logo="http://hellosky.fun:8080/images/6607c3d1dabdb81c383bef2d39fa6b16.png" group-title="SPORTS | SPORTS",IT: EURO SPORTS 1 | UHD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/1684
+#EXTINF:-1 tvg-logo="http://hellosky.fun:8080/images/824760ef21abaa0e884336d92ea63136.png" group-title="SPORTS | SPORTS",PL: POLSAT SPORT FIGHT FHD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/1971
+#EXTINF:-1 tvg-logo="http://hellosky.fun:8080/images/ac3dd06a315ccc5a7040a7b275e44d55.png" group-title="SPORTS | SPORTS",PL: POLSAT SPORT PREMIUM 1 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/1973
+#EXTINF:-1 tvg-logo="http://hellosky.fun:8080/images/e654671f90c96a57bac51fc233fbf526.png" group-title="SPORTS | SPORTS",PL: CANAL+ SPORT 4 FHD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/1980
+#EXTINF:-1 group-title="SPORTS | SPORTS",US: Olympic Channel 1 (UHD)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/2197
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="SPORTS | SPORTS",UK: Fight Network
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/149
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JxV7Hwm/adobestock-281129069-2048x1367-jpeg-1070x600-1-1.png" group-title="SPORTS | SPORTS",USA : BeIN SPORTS HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/18451
+#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M30.png" group-title="SPORTS | DSTV SUPER",DSTV : Ginx_Esports_TV_FHD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/783
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/m3ldhapr/maximo-1.png" group-title="SPORTS | DSTV SUPER",DSTV: SuperSport Máximo 2 FHD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/44220
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/q24jrjac/supersport-ott-7.png" group-title="SPORTS | DSTV SUPER",DSTV: SuperSport OTT 7
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/137532
+#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH2.png" group-title="SPORTS | DSTV SUPER",SUPERSPORTS PSL
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/271039
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png" group-title="SPORTS | DSTV SUPER",DSTV: SUPER SPORTS CRICKET (FHD).
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/24115
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-rugby-za.png" group-title="SPORTS | DSTV SUPER",DSTV : SuperSport Rugby (FHD).
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/157945
+#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/12H.png" group-title="SPORTS | DSTV SUPER",DSTV: SuperSport Cricket HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/516
+#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH4.png" group-title="SPORTS | DSTV SUPER",DSTV : SuperSport Grandstand HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/519
+#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD5.png" group-title="SPORTS | DSTV SUPER",DSTV : SUPERSPORTS VARIETY 2 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/520
+#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD7.png" group-title="SPORTS | DSTV SUPER",DSTV : SuperSport Action HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/521
+#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD6.png" group-title="SPORTS | DSTV SUPER",DSTV : SUPERSPORTS VARIETY 1 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/522
+#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/A11.png" group-title="SPORTS | DSTV SUPER",DSTV : SuperSport Rugby HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/524
+#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E30.png" group-title="SPORTS | DSTV SUPER",DSTV : Super Motorsport HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/560
+#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/12H.png" group-title="SPORTS | DSTV SUPER",DSTV : SuperSport Cricket (FHD)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/769
+#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH4.png" group-title="SPORTS | DSTV SUPER",DSTV : SuperSport Grandstand (FHD)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/772
+#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD5.png" group-title="SPORTS | DSTV SUPER",DSTV : SUPERSPORTS VARIETY 2 (FHD)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/773
+#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD7.png" group-title="SPORTS | DSTV SUPER",DSTV : SuperSport Action (FHD)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/774
+#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD6.png" group-title="SPORTS | DSTV SUPER",DSTV : SUPERSPORTS VARIETY 1  (FHD)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/775
+#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E30.png" group-title="SPORTS | DSTV SUPER",DSTV : Super Motorsport (FHD)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/779
+#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSZ.png" group-title="SPORTS | DSTV SUPER",DSTV : Super_sport_blitz FHD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/780
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/m3ldhapr/maximo-1.png" group-title="SPORTS | DSTV SUPER",DSTV : Super_sport_maximo FHD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/781
+#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/9HD.png" group-title="SPORTS | DSTV SUPER",DSTV : SUPERSPORTS VARIETY 4
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/784
+#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/34S.png" group-title="SPORTS | DSTV SUPER",DSTV: SUPERSPORTS VARIETY 3
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/4885
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0c782e4c-fae0-4a87-b7b1-a752598d9df9/dd7pnp2-e269034c-86e6-447b-9b35-1235abe71724.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMGM3ODJlNGMtZmFlMC00YTg3LWI3YjEtYTc1MjU5OGQ5ZGY5XC9kZDdwbnAyLWUyNjkwMzRjLTg2ZTYtNDQ3Yi05YjM1LTEyMzVhYmU3MTcyNC5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.ViY3pbQ9rgjqqX0HnyUBEXpavBB0wLEJNS9J62hnJv0" group-title="SPORTS | DSTV SUPER",DSTV: WWE Superslam
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/4888
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/1315px-WWE_Network_logo.svg.png" group-title="SPORTS | DSTV SUPER",DSTV : WWE Channel
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/4945
+#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/I26.png?width=50" group-title="SPORTS | DSTV SUPER",DSTV: ESPN
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/23369
+#EXTINF:-1 tvg-logo="https://www.africanbettingclan.com/media/kunena/attachments/796/A01099FA-C989-43B4-B25C-78FEC4C9F10C.jpeg" group-title="SPORTS | DSTV SUPER",DSTV: Racing 240
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/111948
+#EXTINF:-1 tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SDN.png" group-title="SPORTS | DSTV SUPER",DSTV: ESPN2
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/120871
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/m1tnc4h4/supersport-ott-1.png" group-title="SPORTS | DSTV SUPER",DSTV: SuperSport OTT 1
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/137517
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/ofwjhfg4/supersport-ott-2.png" group-title="SPORTS | DSTV SUPER",DSTV : SuperSport OTT 2
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/137518
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/j4zgc2cs/supersport-ott-3.png" group-title="SPORTS | DSTV SUPER",DSTV : SuperSport OTT 3
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/137519
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/scofujew/supersport-ott-4.png" group-title="SPORTS | DSTV SUPER",DSTV : SuperSport OTT 4
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/137520
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/qwlihdeu/supersport-ott-5.png" group-title="SPORTS | DSTV SUPER",DSTV : SuperSport OTT 5
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/137521
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/upgdtlsi/supersport-ott-6.png" group-title="SPORTS | DSTV SUPER",DSTV: SuperSport OTT 6
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/137531
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/1rydpzl5/supersport-ott-8.png" group-title="SPORTS | DSTV SUPER",DSTV: SuperSport OTT 8
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/137533
+#EXTINF:-1 group-title="SPORTS | ARABIC",AR:  Dubai Racing HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/902
+#EXTINF:-1 group-title="SPORTS | ARABIC",AR:  ON Time Sports HD+
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/4598
+#EXTINF:-1 group-title="SPORTS | ARABIC",AR:  ON Time Sports HD+
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/4620
+#EXTINF:-1 group-title="SPORTS | ARABIC",AR:  Dubai Racing 1 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/4623
+#EXTINF:-1 group-title="SPORTS | ARABIC",AR:  Dubai Racing 2 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/4624
+#EXTINF:-1 group-title="SPORTS | ARABIC",AR:  Dubai Racing 3 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/4625
+#EXTINF:-1 group-title="SPORTS | ARABIC",AR:  Libya Sports  2HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/4637
+#EXTINF:-1 group-title="SPORTS | ARABIC",AR:  Libya Sport Channel
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/4640
+#EXTINF:-1 group-title="SPORTS | ARABIC",AR:  Dubai Sport 1 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/4651
+#EXTINF:-1 group-title="SPORTS | ARABIC",AR:  Dubai Sport 2 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/4652
+#EXTINF:-1 group-title="SPORTS | ARABIC",AR:  Dubai Sport 3 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/4653
+#EXTINF:-1 group-title="SPORTS | ARABIC",AR:  KSA Sport 3 HD+
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/4656
+#EXTINF:-1 group-title="SPORTS | ARABIC",AR: Bahrain_Sport_1_HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/30105
+#EXTINF:-1 group-title="SPORTS | ARABIC",AR: Bahrain_Sport_2_HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/30106
+#EXTINF:-1 group-title="SPORTS | ARABIC",AR: IRAQIA SPORT HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/30107
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Abu Dhabi Sports 1 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309006
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Abu Dhabi Sports 2 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309007
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: KSA Sport 1 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309008
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: KSA Sport 2 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309009
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: KSA Sport 3 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309010
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Dubai Sport 1 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309011
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Dubai Sport 2 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309012
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Dubai Sport 3 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309013
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: On Time Sport HD 1
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309014
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: On Time Sport HD 2
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309015
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Dubai Racing 1 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309016
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Dubai Racing 2 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309017
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Dubai Racing 3 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309018
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Saudi 24 Sport
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309023
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Bahrain Sport 1 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309024
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Bahrain Sport 2 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309025
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Oman Sport HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309026
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Iraqia Sport HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309027
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Zamalek Sports
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309029
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Nile Sport
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309030
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Al Ahly TV
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309031
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Al Heddaf TV
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309032
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Libya Sport 1
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309033
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Libya Sport 2
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309034
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Jordan Sport HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309035
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Kuwait Sport HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309036
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Palestine Sport
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309037
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Sharjah Sport HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309038
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Arryadia HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309039
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Kuwait Sport Plus
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309040
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport | Ar: Yas Sport
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309041
+#EXTINF:-1 group-title="SPORTS | ARABIC",Sport: RealMadrid TV
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/309043
+#EXTINF:-1 group-title="SPORTS | ARABIC",Iq| Al Rabiaa Iraq ✦
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605085
+#EXTINF:-1 group-title="SPORTS | ARABIC",IQ| Al Rabiaa Sport 1
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605086
+#EXTINF:-1 group-title="SPORTS | ARABIC",IQ| Al Rabiaa Sport +1
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605087
+#EXTINF:-1 group-title="SPORTS | ARABIC",IQ| Al Rabiaa Sport 2
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605088
+#EXTINF:-1 group-title="SPORTS | ARABIC",IQ| Al Rabiaa Sport +2
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605089
+#EXTINF:-1 group-title="SPORTS | ARABIC",IQ| Al Rabiaa Geo
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605090
+#EXTINF:-1 group-title="SPORTS | ARABIC",IQ| Al Rabiaa Movies
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605091
+#EXTINF:-1 group-title="SPORTS | ARABIC",IQ| Al Rabiaa Quran
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605092
+#EXTINF:-1 group-title="SPORTS | ARABIC",IQ| Al Rabiaa Series
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605093
+#EXTINF:-1 group-title="SPORTS | ARABIC",IQ| Al Rabiaa variety
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605094
+#EXTINF:-1 group-title="SPORTS | ARABIC",IQ| Al Rabiaa Musica
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605095
+#EXTINF:-1 group-title="SPORTS | ARABIC",IQ| Njoom Al Rabiaa
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605096
+#EXTINF:-1 group-title="SPORTS | ARABIC",Thamanya 1 Sport 4K
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605097
+#EXTINF:-1 group-title="SPORTS | ARABIC",Thamanya 2 Sport 4K
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605098
+#EXTINF:-1 group-title="SPORTS | ARABIC",Thamanya 3 Sport 4K
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605099
+#EXTINF:-1 group-title="SPORTS | ARABIC",Thamanya 1 Sport HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605100
+#EXTINF:-1 group-title="SPORTS | ARABIC",Thamanya 2 Sport HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605101
+#EXTINF:-1 group-title="SPORTS | ARABIC",Thamanya 3 Sport HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605102
+#EXTINF:-1 group-title="SPORTS | ARABIC",Thamanya 1 Sport SD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605103
+#EXTINF:-1 group-title="SPORTS | ARABIC",Thamanya 2 Sport SD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605104
+#EXTINF:-1 group-title="SPORTS | ARABIC",Thamanya 3 Sport SD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605105
+#EXTINF:-1 group-title="SPORTS | ARABIC",Shasha TV 4k
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605106
+#EXTINF:-1 group-title="SPORTS | ARABIC",Shasha TV 2 4K
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605107
+#EXTINF:-1 group-title="SPORTS | ARABIC",Shasha TV 2 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605108
+#EXTINF:-1 group-title="SPORTS | ARABIC",Shasha TV HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605109
+#EXTINF:-1 group-title="SPORTS | ARABIC",Shasha TV 2 SD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605110
+#EXTINF:-1 group-title="SPORTS | ARABIC",Shasha TV SD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605111
+#EXTINF:-1 group-title="SPORTS | ARABIC",Shahid Sport 1 4k
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605112
+#EXTINF:-1 group-title="SPORTS | ARABIC",Shahid Sport 1 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605113
+#EXTINF:-1 group-title="SPORTS | ARABIC",Shahid Sport 1 SD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605114
+#EXTINF:-1 group-title="SPORTS | ARABIC",Shahid Sport 2 4K
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605115
+#EXTINF:-1 group-title="SPORTS | ARABIC",Shahid Sport 2 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605116
+#EXTINF:-1 group-title="SPORTS | ARABIC",Shahid Sport 2 SD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605117
+#EXTINF:-1 group-title="SPORTS | ARABIC",StarzPlay Sports 1 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605119
+#EXTINF:-1 group-title="SPORTS | ARABIC",StarzPlay Sports 1 SD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605120
+#EXTINF:-1 group-title="SPORTS | ARABIC",StarzPlay Sports 2 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605122
+#EXTINF:-1 group-title="SPORTS | ARABIC",StarzPlay Sports 2 SD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605123
+#EXTINF:-1 group-title="SPORTS | ARABIC",StarzPlay Sports 3 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605125
+#EXTINF:-1 group-title="SPORTS | ARABIC",AD Sport Asia 1 4K
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605126
+#EXTINF:-1 group-title="SPORTS | ARABIC",AD Sport Asia 2 4K
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605127
+#EXTINF:-1 group-title="SPORTS | ARABIC",AD Sport Asia 1 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605128
+#EXTINF:-1 group-title="SPORTS | ARABIC",AD Sport Asia 2 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605129
+#EXTINF:-1 group-title="SPORTS | ARABIC",AD Sport Asia 1 SD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605130
+#EXTINF:-1 group-title="SPORTS | ARABIC",AD Sport Asia 2 SD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/605131
+#EXTINF:-1 group-title="SPORTS | ARABIC",AR:  KSA Sport 1 HD+
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/4654
+#EXTINF:-1 group-title="SPORTS | ARABIC",AR:  KSA Sport 2 HD+
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/4655
+#EXTINF:-1 group-title="SPORTS | BEIN",beIN SPORTS 4K 1
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274122
+#EXTINF:-1 group-title="SPORTS | BEIN",beIN SPORTS 4K 2
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274123
+#EXTINF:-1 group-title="SPORTS | BEIN",beIN SPORTS 4K 3
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274124
+#EXTINF:-1 group-title="SPORTS | BEIN",beIN SPORTS 4K 4
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274125
+#EXTINF:-1 group-title="SPORTS | BEIN",beIN SPORTS 4K 5
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274126
+#EXTINF:-1 group-title="SPORTS | BEIN",beIN SPORTS 4K 6
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274127
+#EXTINF:-1 group-title="SPORTS | BEIN",beIN SPORTS 4K 7
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274128
+#EXTINF:-1 group-title="SPORTS | BEIN",beIN Sports 4K 8
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274129
+#EXTINF:-1 group-title="SPORTS | BEIN",beIN SPORTS 4K 9
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274130
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Xtra 4K 1
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274131
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Xtra 4K 2
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274132
+#EXTINF:-1 group-title="SPORTS | BEIN",beIN Xtra 4K 3
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274133
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport AFC 4K
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274134
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport AFC 1 4K
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274135
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport AFC 2 4K
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274136
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport AFC 3 4K
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274137
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport AFC 4 4K
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274138
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport AFC 5 4K
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274139
+#EXTINF:-1 group-title="SPORTS | BEIN",beIN Sport English 2 4k
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274140
+#EXTINF:-1 group-title="SPORTS | BEIN",beIN Sport French 4k 1
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274142
+#EXTINF:-1 group-title="SPORTS | BEIN",beIN Sport French 4k 2
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274143
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport NBA 4K
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274144
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport News HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274161
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sports HD1 1080
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274162
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sports HD2 1080
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274163
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sports HD3 1080
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274164
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sports HD4 1080
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274165
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sports HD5 1080
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274166
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sports HD6 1080
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274167
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sports HD7 1080
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274168
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sports HD8 1080
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274169
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sports HD9 1080
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274170
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Xtra HD3 1080
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274171
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sports English 1 1080
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274172
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sports English 2 1080
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274173
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sports French HD1 1080
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274174
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sports French HD2 1080
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274175
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport HD4 720
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274179
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport HD5 720
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274180
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport HD6 720
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274181
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport HD7 720
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274182
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport HD8 720
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274183
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport HD9 720
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274184
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Xtra HD1 720
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274185
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Xtra HD2 720
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274186
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Xtra HD3 720
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274187
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport AFC HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274188
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport AFC 1 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274189
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport AFC 2 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274190
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport AFC 3 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274191
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport AFC 4 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274192
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport AFC 5 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274193
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport English 1 720
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274194
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport English 2 720
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274195
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport French HD1 720
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274196
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport French HD2 720
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274197
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport NBA HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274198
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport SD1
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274214
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport SD2
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274215
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport SD3
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274216
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport SD4
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274217
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport SD5
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274218
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport SD6
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274219
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport SD7
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274220
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport SD8
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274221
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport SD9
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274222
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Xtra SD1
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274223
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Xtra SD2
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274224
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Xtra SD3
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274225
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport AFC SD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274226
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport AFC 1 SD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274227
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport AFC 2 SD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274228
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport AFC 3 SD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274229
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport AFC 4 SD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274230
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport AFC 5 SD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274231
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport English 1 SD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274232
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport English 2 SD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274233
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport French SD1
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274234
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport French SD2
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274235
+#EXTINF:-1 group-title="SPORTS | BEIN",BeIN Alkass 1 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274236
+#EXTINF:-1 group-title="SPORTS | BEIN",BeIN Alkass 2 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274237
+#EXTINF:-1 group-title="SPORTS | BEIN",BeIN Alkass 3 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274238
+#EXTINF:-1 group-title="SPORTS | BEIN",BeIN Alkass 4 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274239
+#EXTINF:-1 group-title="SPORTS | BEIN",BeIN Alkass 5 HD
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274240
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport HD1 720
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274176
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport HD2 720
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274177
+#EXTINF:-1 group-title="SPORTS | BEIN",Bein Sport HD3 720
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/274178
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuAlkE08b3RI79ZRo0e4oe0nZm3NxnuYOIw&s" group-title="JAPAN",NHK WORL JAPAN
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_NOA0kasmQewt5AqO3eNVIl1KImJRzB7ZA&s" group-title="JAPAN",QVC JAPAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.garden/
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjHkmzQ4ctESFxhOIwXDJPIF9p-TIdnJDxhQ&s" group-title="JAPAN",SHOP CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.garden/
+https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502029_tvchannels_v1.jpg" group-title="KIDS",MYKIDZ DENS
+http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6NXNR4F/mykidz.png" group-title="KIDS",MYKIDS
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn1Fyrupe1tmI0H9_8rrX4Y8KQUIeW8L3MxA&s" group-title="KIDS",MOONBUG
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPJKWUxYUQeWs-g3hBQHHFC9w9QaIyy7iw4w&s" group-title="KIDS",MENTARI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=8237&type=hls
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/L0gjZdq/funplanet.png" group-title="KIDS",FUN PLANET
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTltEXMZMIQR4bLtcC9ESqtNzhoF-D4ud3ecg&s" group-title="KIDS",BIZNET KIDS HD
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJ/vtv.png" group-title="KIDS",VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/600px-Boomerang_2014_logo.svg.png" group-title="KIDS",BOOMERANG INDI
+https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_Kids_TV.png" group-title="KIDS",Kids TV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/2560px-CBeebies.svg.png" group-title="KIDS",Cbeebies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjzImUoWRrbED6TsCBuLt3IINBohuQX4d_HQ&s" group-title="KIDS",ZOOMOO V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa1mgVMiosa7QfrmHsWAYSQxz-pjxiSh3sjQ&s" group-title="KIDS",BUDDY STAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn1Fyrupe1tmI0H9_8rrX4Y8KQUIeW8L3MxA&s" group-title="KIDS",MOONBUG V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b62ae389f0944d4a55daaad52de1f9d:ba145a1426491316010da87bfd69de05
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="KIDS",NICKELODEON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=676b60c2b84b49b6b316207a590203e4:da9878a96062ea105895f310e052fa7b
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="KIDS",NICK JR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440" group-title="KIDS",Horee!
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
+https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png" group-title="KIDS",Animax
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="KIDS",Cartoon Network
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
+https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mediampd/CartoonNetWHD.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKTkCqWmuGhM885nbpI1CIiFbWmhCtkIpbxg&s" group-title="KIDS",DREAMWORKS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
+https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mediampd/DreamWorksHD.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="KIDS",CARTOONITO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
+https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoHD.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVRI-World.svg/2560px-TVRI-World.svg.png" group-title="INDONESIA",TVRI World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png" group-title="INDONESIA",MNC TV (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png" group-title="INDONESIA",MNC TV (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/250px-RCTI_logo_2015.svg.png" group-title="INDONESIA",RCTI (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/250px-RCTI_logo_2015.svg.png" group-title="INDONESIA",RCTI (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="INDONESIA",GTV (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="INDONESIA",GTV (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="INDONESIA",iNews (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="INDONESIA",iNews (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="INDONESIA",SCTV D
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="INDONESIA",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=204&type=hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png" group-title="INDONESIA",Trans TV DT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="INDONESIA",Trans 7 DT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="INDONESIA",Trans 7 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png" group-title="INDONESIA",Trans TV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDONESIA",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDONESIA",INDOSIAR ID
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="INDONESIA",MOJI TV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHrRRqImnkd9qU4rJ9HNFuEWskwvRD0hOZdg&s" group-title="INDONESIA",TV ONE (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHrRRqImnkd9qU4rJ9HNFuEWskwvRD0hOZdg&s" group-title="INDONESIA",TV ONE
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png" group-title="INDONESIA",NET TV/MDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png" group-title="INDONESIA",NET TV/MDTV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png" group-title="INDONESIA",NET TV/MDTV VIP
+https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png" group-title="INDONESIA",SINPO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=19046&type=hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/250px-LogoMetroTVsince2010.svg.png" group-title="INDONESIA",Metro TV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/LogoBTV.png" group-title="INDONESIA",BTV
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/LogoBTV.png" group-title="INDONESIA",BTV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPlAtPGRHW6gEgAZMn916nIPyS0yqblsFZqg&s" group-title="INDONESIA",SindoNews ID
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzkYJ6pIswJ939aAjKZ0VERVaLGs0YD4q41g&s" group-title="INDONESIA",CNBC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-8ZOCCFoPNA9ms_SLoPbTfiivrl_7xyCxg&s" group-title="INDONESIA",ANTV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-8ZOCCFoPNA9ms_SLoPbTfiivrl_7xyCxg&s" group-title="INDONESIA",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=782&type=hls
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsbak_MpWEim44NWEDJsGjDHEHSfm_FlfvjQ&s" group-title="INDONESIA",NUSANTARA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNqEygU9IDKWhfdAsfBjjiotGN2ZKMqednCQ&s" group-title="INDONESIA",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/200px-KOMPAS_TV_%282017%29.svg.png" group-title="INDONESIA",KOMPAS TV (D*)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/CNN/CNN-Logo.wine.png" group-title="INDONESIA",CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="INDONESIA",TVRI Nasional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/01YAHgw.png" group-title="INDONESIA",MAGNA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png" group-title="INDONESIA",BN Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/150px-Logo_Jawapos_TV.png" group-title="INDONESIA",Jawa Pos TV
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png" group-title="INDONESIA",SURABAYA TV
+https://e.siar.us/live/surabayatv.m3u8
+#EXTINF:-1 tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="INDONESIA",LINGKARTV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Inspira.png" group-title="INDONESIA",INSPIRA TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/UGTV_Indonesia.png" group-title="INDONESIA",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/SANGAJI_TV_JOGJA.jpg" group-title="INDONESIA",SANGAJI TV
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="INDONESIA",Sakti TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="INDONESIA",Duta TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/2l424MY67Zj1YYcsreW8IV9oLfCYNI1X2XJdW8kMkd4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvaWQvdGh1bWIv/OC84Ni9EaG9ob1RW/LnBuZy8yMDBweC1E/aG9ob1RWLnBuZw" group-title="INDONESIA",Dhoho TV
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwkACcHNc4xZJyvtvGndGHVjfknCJZz4EakA&s" group-title="INDONESIA",GARUDA TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="HBO",HBO+ FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32934
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/tAB9753SDI.png" group-title="HBO",HBO 2 FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32930
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/cnB4307w.jpg" group-title="HBO",HBO XTREME FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32945
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="HBO",HBO+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/tAB9753SDI.png" group-title="HBO",HBO 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09e84fc7ecb71def143cd7e2771f3b35:1a91f2d315fb0593321ba60aa783ec2c
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO2-HD/default.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y6164V7.png" group-title="HBO",HBO POP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/cnB4307w.jpg" group-title="HBO",HBO XTREME
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="HBO",HBO 🇺🇸
+http://212.102.60.231/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="HBO",HBO Fams 🇺🇸
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="HBO",HBO NO SUB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="HBO",HBO Hits NO SUB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="HBO",HBO Family NO SUB
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="HBO",HBO Signature NO SUB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cJbdKf_BbwC9Q1V0rXAxmavdau1-hILuRA&s" group-title="HBO",Cinemax NO SUB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="HBO",HBO
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="HBO",HBO Hits
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="HBO",HBO Family
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="HBO",HBO Signature
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cJbdKf_BbwC9Q1V0rXAxmavdau1-hILuRA&s" group-title="HBO",Cinemax
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250" group-title="Sea Games Thailand 2025",SEA Games CH01
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
@@ -1878,3 +2732,4 @@ https://streamer.vision99.workers.dev/?id=114&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://streamer.vision99.workers.dev/?id=205&type=drm
 https://streamer.vision99.workers.dev/?id=205&type=dash
+
